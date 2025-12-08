@@ -207,7 +207,7 @@ uv run scripts/serve_b1k.py --task-checkpoint-mapping task_checkpoint_mapping.js
 ## 👥 Core Team
 
 - **[Ilia Larchenko](https://github.com/IliaLarchenko)**
-- **[Zaurin Gleb](https://github.com/zaringleb)**
+- **[Zarin Gleb](https://github.com/zaringleb)**
 - **[Akash Karnatak](https://github.com/akashkarnatak)**
 
 ## 🙏 Acknowledgments
