@@ -4,7 +4,9 @@
 
 This repository contains our winning solution for the [2025 BEHAVIOR Challenge](https://behavior.stanford.edu/challenge/), achieving a 26% success rate on both the public and private evaluation sets. Our approach builds upon [Physical Intelligence's Pi0.5](https://www.physicalintelligence.company/blog/pi0) vision-language-action model with several architectural and training innovations.
 
-<!-- **📄 [Technical Report Coming Soon](PLACEHOLDER) | 🎥 [Detailed Video Coming Soon](PLACEHOLDER)** -->
+**📄 [Technical Report](https://arxiv.org/abs/2512.06951)**
+
+<!-- ** 🎥 [Detailed Video Coming Soon](PLACEHOLDER)** -->
 
 ---
 
@@ -237,3 +239,20 @@ Special thanks to **[Physical Intelligence](https://www.physicalintelligence.com
 - Blog post: [π0.5: a VLA with Open-World Generalization](https://www.physicalintelligence.company/blog/pi05)
 - Code: [OpenPI Repository](https://github.com/Physical-Intelligence/openpi)
 - Paper: [π0.5](https://www.physicalintelligence.company/download/pi05.pdf)
+
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{larchenko2025behavior,
+      title={Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge}, 
+      author={Ilia Larchenko and Gleb Zarin and Akash Karnatak},
+      year={2025},
+      eprint={2512.06951},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2512.06951}, 
+}
+```
