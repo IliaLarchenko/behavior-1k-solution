@@ -63,7 +63,7 @@ fi
 echo "Installing BEHAVIOR-1K evaluation dependencies..."
 cd "BEHAVIOR-1K"
 chmod +x setup.sh || true
-uv pip install -e bddl
+uv pip install -e bddl3
 uv pip install -e OmniGibson[eval]
 cd ..
 
